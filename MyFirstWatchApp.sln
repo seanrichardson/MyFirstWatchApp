@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstWatchApp", "MyFirstWatchApp\MyFirstWatchApp\MyFirstWatchApp.csproj", "{9AAE8AE6-66B8-419E-963B-8B17997EA863}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstWatchApp.Tizen.Mobile", "MyFirstWatchApp\MyFirstWatchApp.Tizen.Mobile\MyFirstWatchApp.Tizen.Mobile.csproj", "{912C26E2-63D8-46D8-8921-B0432D84DFDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstWatchApp.Tizen.Wearable", "MyFirstWatchApp\MyFirstWatchApp.Tizen.Wearable\MyFirstWatchApp.Tizen.Wearable.csproj", "{9813F151-FCC5-4633-A89F-4887CFE5D658}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AAE8AE6-66B8-419E-963B-8B17997EA863}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AAE8AE6-66B8-419E-963B-8B17997EA863}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AAE8AE6-66B8-419E-963B-8B17997EA863}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AAE8AE6-66B8-419E-963B-8B17997EA863}.Release|Any CPU.Build.0 = Release|Any CPU
+		{912C26E2-63D8-46D8-8921-B0432D84DFDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{912C26E2-63D8-46D8-8921-B0432D84DFDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{912C26E2-63D8-46D8-8921-B0432D84DFDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{912C26E2-63D8-46D8-8921-B0432D84DFDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9813F151-FCC5-4633-A89F-4887CFE5D658}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9813F151-FCC5-4633-A89F-4887CFE5D658}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9813F151-FCC5-4633-A89F-4887CFE5D658}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9813F151-FCC5-4633-A89F-4887CFE5D658}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01CA90E6-B358-4195-8895-FD17DAB4AEAE}
+	EndGlobalSection
+EndGlobal
